@@ -9,3 +9,5 @@ https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london
 https://github.com/vega/vega-datasets/tree/gh-pages/data
 
 https://beta.observablehq.com/@haydensansum/london-crime-heatmaps
+
+https://beta.observablehq.com/@chloepugh/london-crime-geography
